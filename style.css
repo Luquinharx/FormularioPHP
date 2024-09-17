@@ -1,0 +1,32 @@
+/* Estilos Básicos */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #121212; /* Fundo preto fosco */
+    color: #ffffff; /* Texto em branco */
+    margin: 20px;
+}
+
+/* Tabela de Usuários */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    background-color: #1e1e1e; /* Fundo mais escuro para a tabela */
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #333; /* Borda mais clara para contraste */
+    color: #ffffff; /* Texto em branco */
+}
+
+/* Links */
+a {
+    color: #00aaff; /* Links em azul para contraste */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline; /* Sublinhar links ao passar o mouse */
+}
